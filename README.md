@@ -1,6 +1,4 @@
-# PRODIGY_GA_03
-
-### **README.md**
+ ### **README.md**
 
 # Pix2Pix: Image-to-Image Translation with Conditional GANs  
 
